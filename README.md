@@ -186,7 +186,7 @@ This webpage uses Flexbox and works on mobile, tablet, and desktop screens.
 <!-- FOOTER -->
 <footer id="footer">
 
-<p>© 2026 My Website</p>
+<p>My Webpage 2026 </p>
 
 </footer>
 
